@@ -7,13 +7,12 @@ A compact adapter board for connecting SEGGER J-Link debug probes to generic JTA
 ### Key features
 
 * Snug-fit debug probe connector
-* 7 colored flying wires for target connection. Length approx. 10 cm
-* Wire-color assignments printed on silkscreen
-* Strain-relief and heatshrink tubing for durability
+* .100" pin header for flying wire connection
+* Signal assignment printed on silk screen
 
 ## Overview
 
-This adapter can be used to interface a SEGGER J-Link debug probe to a generic JTAG or SWD target, using .1" pin header flying wires. This low cost solution can be especially useful for academic users of J-Link EDU probes, as it doesn't require special connector hardware to be fitted on target project boards.
+This adapter can be used to interface a SEGGER J-Link debug probe to a generic JTAG or SWD target, using .1" "DuPont"-style header jumper wires. This low cost solution can be especially useful for academic users of J-Link EDU probes, as it doesn't require special connector hardware to be fitted on target project boards.
 
 ## Licensing
 
