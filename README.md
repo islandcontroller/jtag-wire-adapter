@@ -6,7 +6,7 @@ A compact adapter board for connecting SEGGER J-Link debug probes to generic JTA
 
 <p align="center"><img src="doc/3d.png" /></p>
 
-Show the [**PCB Preview**](https://htmlpreview.github.io/?https://github.com/islandcontroller/jtag-wire-adapter/blob/master/doc/ibom.html) &#127760;.
+View [**Schematic**](doc/sch_jtag-wire-adapter_rev1.pdf) &#128196; or [**PCB Preview**](https://htmlpreview.github.io/?https://github.com/islandcontroller/jtag-wire-adapter/blob/master/doc/ibom.html) &#127760;.
 
 ### Key features
 
