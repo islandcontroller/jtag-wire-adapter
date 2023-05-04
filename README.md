@@ -28,7 +28,7 @@ The parts are generic and can be found pretty much anywhere on the internet.
 
 | Designator | Description                                             |
 |------------|---------------------------------------------------------|
-| `J1`       | Right-angle socket header, 2x10 contacts, .100" spacing |
+| `J1`       | Right-angle socket header, 2x10 contacts, .100" spacing<br>Suggested: `SFH11-PBPC-D10-RA` (Digikey [`S9205-ND`](https://www.digikey.de/de/products/detail/sullins-connector-solutions/SFH11-PBPC-D10-RA-BK/1990098)) |
 | `J2`       | Right-angle pin header, 1x7 contacts, .100" spacing     |
 
 ## Design Review and Validation
@@ -36,6 +36,8 @@ The parts are generic and can be found pretty much anywhere on the internet.
 Prototype PCBs were fabricated in the EU at [**AISLER B.V.**](https://aisler.net/) using their integrated KiCad plugin. See [photos](#photos) for further details.
 
 * The selected stacked-row header seems to be *just* short enough to accidentally fit with a column offset. A wider connector should be selected to prevent wrong connection.
+
+  * The "original" connector as used on other adpters is a *Sullins Connector Solutions* `SFH11-PBPC-D10-RA` (available from Digikey as [`S9205-ND`](https://www.digikey.de/de/products/detail/sullins-connector-solutions/SFH11-PBPC-D10-RA-BK/1990098)).
 
 A tool compatibility test was performed using a SEGGER J-Link<sup>EDU</sup> emulator and a "blue pill"-type STM32 board.
 
