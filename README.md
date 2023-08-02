@@ -1,6 +1,6 @@
 # jtag-wire-adapter
 
-[![completed](https://img.shields.io/badge/status-completed-brightgreen?style=plastic)]()
+[![status - completed](https://img.shields.io/badge/status-completed-brightgreen?style=plastic)]() ![license - CERN-OHL-P-2.0](https://img.shields.io/github/license/islandcontroller/jtag-wire-adapter?style=plastic) [![Upload to AISLER](https://img.shields.io/badge/Upload_to_-AISLER-ff8000?style=plastic)](https://aisler.net/p/new?url=https://raw.githubusercontent.com/islandcontroller/jtag-wire-adapter/master/pcb/jtag-wire-adapter.kicad_pcb&ref=github)
 
 A compact adapter board for connecting SEGGER J-Link debug probes to generic JTAG/SWD targets using a set of flying wires.
 
